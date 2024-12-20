@@ -1,0 +1,501 @@
+Customer_ID,Age,Satisfaction_Level,Purchase_Amount,Region,Number_of_Items
+1,56,Neutral,21.98,Centro,8
+2,46,Neutral,96.83,Oeste,4
+3,32,Muy satisfecho,99.92,Centro,2
+4,60,Neutral,33.53,Norte,9
+5,25,Muy satisfecho,68.15,Norte,5
+6,38,Muy satisfecho,67.57,Norte,4
+7,56,Insatisfecho,46.85,Oeste,2
+8,36,Muy insatisfecho,59.44,Centro,1
+9,40,Insatisfecho,52.79,Sur,7
+10,28,Muy insatisfecho,110.05,Centro,6
+11,28,Muy insatisfecho,93.71,Norte,2
+12,41,Satisfecho,100.43,Centro,8
+13,53,Muy insatisfecho,89.43,Sur,4
+14,57,Neutral,52.42,Norte,8
+15,41,Satisfecho,64.51,Este,7
+16,20,Muy insatisfecho,84.79,Sur,5
+17,39,Satisfecho,50.56,Sur,8
+18,19,Insatisfecho,89.26,Sur,9
+19,41,Insatisfecho,70.19,Centro,5
+20,61,Satisfecho,67.5,Este,5
+21,47,Satisfecho,89.22,Sur,2
+22,55,Satisfecho,83.89,Oeste,5
+23,19,Satisfecho,67.78,Oeste,3
+24,38,Satisfecho,98.19,Sur,7
+25,50,Insatisfecho,53.38,Este,5
+26,29,Insatisfecho,87.32,Norte,8
+27,39,Satisfecho,86.86,Norte,1
+28,61,Satisfecho,68.81,Oeste,3
+29,42,Muy satisfecho,81.52,Norte,3
+30,44,Neutral,49.98,Este,9
+31,59,Neutral,93.48,Oeste,5
+32,45,Satisfecho,71.3,Norte,9
+33,33,Neutral,64.55,Este,9
+34,32,Muy satisfecho,95.98,Sur,1
+35,64,Satisfecho,60.91,Centro,2
+36,61,Neutral,46.83,Este,5
+37,20,Satisfecho,43.87,Centro,4
+38,54,Satisfecho,87.12,Este,9
+39,24,Insatisfecho,49.39,Norte,7
+40,38,Muy satisfecho,110.1,Oeste,6
+41,26,Neutral,33.36,Centro,7
+42,56,Satisfecho,108.93,Oeste,1
+43,35,Neutral,79.22,Centro,1
+44,21,Satisfecho,73.07,Centro,8
+45,42,Neutral,64.1,Sur,2
+46,31,Muy insatisfecho,82.98,Sur,9
+47,26,Muy satisfecho,74.25,Oeste,7
+48,43,Muy insatisfecho,97.07,Este,6
+49,19,Neutral,77.28,Centro,1
+50,37,Muy satisfecho,78.01,Centro,1
+51,45,Muy satisfecho,67.73,Sur,2
+52,64,Neutral,73.86,Sur,6
+53,24,Satisfecho,81.16,Oeste,6
+54,61,Neutral,40.8,Sur,2
+55,25,Insatisfecho,48.04,Centro,1
+56,64,Neutral,89.87,Este,5
+57,52,Satisfecho,78.42,Oeste,5
+58,31,Satisfecho,71.32,Norte,2
+59,34,Satisfecho,75.37,Oeste,6
+60,53,Satisfecho,81.95,Este,9
+61,57,Muy insatisfecho,64.2,Este,2
+62,21,Neutral,59.43,Norte,2
+63,19,Muy insatisfecho,78.92,Oeste,3
+64,23,Neutral,55.43,Centro,7
+65,59,Neutral,83.17,Sur,6
+66,21,Satisfecho,40.95,Norte,8
+67,46,Neutral,95.58,Norte,8
+68,35,Insatisfecho,84.45,Oeste,6
+69,43,Insatisfecho,80.12,Oeste,3
+70,61,Satisfecho,94.65,Este,3
+71,51,Satisfecho,108.31,Sur,1
+72,27,Insatisfecho,95.29,Sur,7
+73,53,Muy insatisfecho,38.18,Este,5
+74,31,Satisfecho,49.41,Este,4
+75,48,Muy insatisfecho,62.5,Centro,4
+76,32,Satisfecho,75.52,Norte,4
+77,25,Satisfecho,85.35,Oeste,6
+78,31,Muy insatisfecho,60.49,Este,8
+79,40,Muy insatisfecho,78.74,Este,8
+80,57,Muy satisfecho,59.89,Oeste,5
+81,38,Neutral,62.77,Oeste,6
+82,33,Neutral,46.87,Centro,4
+83,62,Satisfecho,56.54,Norte,9
+84,35,Muy satisfecho,47.97,Norte,8
+85,64,Muy satisfecho,55.48,Oeste,1
+86,41,Satisfecho,96.07,Este,2
+87,43,Neutral,56.01,Sur,9
+88,42,Muy insatisfecho,127.65,Norte,8
+89,62,Satisfecho,84.87,Norte,3
+90,58,Neutral,78.7,Centro,8
+91,46,Neutral,57.83,Norte,1
+92,32,Muy satisfecho,89.01,Sur,4
+93,62,Insatisfecho,63.49,Sur,3
+94,18,Neutral,77.44,Sur,6
+95,42,Muy insatisfecho,126.2,Norte,7
+96,24,Neutral,73.08,Este,4
+97,26,Muy insatisfecho,97.99,Norte,7
+98,41,Insatisfecho,60.94,Centro,9
+99,18,Insatisfecho,74.3,Sur,2
+100,61,Satisfecho,110.42,Este,3
+101,25,Satisfecho,62.46,Centro,5
+102,41,Neutral,111.25,Oeste,3
+103,28,Muy satisfecho,89.16,Este,8
+104,34,Neutral,63.75,Sur,8
+105,25,Insatisfecho,87.65,Sur,8
+106,52,Satisfecho,94.45,Oeste,9
+107,52,Insatisfecho,87.44,Centro,4
+108,50,Muy satisfecho,43.6,Oeste,5
+109,22,Muy insatisfecho,60.46,Este,5
+110,59,Muy satisfecho,70.05,Oeste,8
+111,56,Muy insatisfecho,73.51,Este,7
+112,58,Satisfecho,87.41,Norte,9
+113,45,Neutral,78.55,Este,8
+114,24,Muy satisfecho,48.29,Centro,2
+115,26,Muy insatisfecho,82.6,Norte,4
+116,25,Neutral,87.21,Oeste,6
+117,29,Muy satisfecho,86.2,Sur,2
+118,51,Neutral,96.62,Este,7
+119,50,Satisfecho,91.68,Norte,3
+120,40,Satisfecho,84.18,Este,3
+121,41,Neutral,73.6,Oeste,2
+122,54,Satisfecho,41.78,Sur,8
+123,52,Neutral,83.59,Oeste,6
+124,61,Muy satisfecho,79.15,Oeste,1
+125,57,Muy insatisfecho,80.43,Centro,1
+126,39,Insatisfecho,49.47,Sur,7
+127,44,Muy satisfecho,53.38,Sur,8
+128,52,Satisfecho,96.06,Norte,5
+129,18,Neutral,74.21,Centro,5
+130,52,Satisfecho,88.63,Centro,4
+131,54,Insatisfecho,75.57,Este,6
+132,64,Insatisfecho,75.6,Centro,6
+133,31,Neutral,93.77,Este,3
+134,20,Neutral,64.68,Oeste,9
+135,18,Neutral,76.92,Norte,7
+136,22,Muy insatisfecho,65.75,Oeste,1
+137,43,Muy satisfecho,66.31,Norte,7
+138,31,Muy satisfecho,68.82,Centro,5
+139,56,Satisfecho,79.44,Oeste,5
+140,44,Neutral,65.43,Oeste,2
+141,26,Neutral,100.12,Norte,4
+142,32,Satisfecho,57.11,Sur,6
+143,32,Satisfecho,71.26,Sur,7
+144,43,Insatisfecho,66.21,Sur,5
+145,59,Muy satisfecho,103.94,Norte,9
+146,30,Satisfecho,78.93,Centro,3
+147,49,Muy satisfecho,95.64,Este,1
+148,56,Satisfecho,45.29,Sur,4
+149,49,Satisfecho,80.34,Sur,9
+150,21,Neutral,92.79,Este,4
+151,47,Muy satisfecho,76.65,Oeste,2
+152,54,Satisfecho,96.31,Este,5
+153,40,Muy insatisfecho,64.65,Centro,3
+154,56,Muy insatisfecho,103.19,Este,9
+155,62,Neutral,120.98,Centro,4
+156,32,Satisfecho,67.74,Centro,6
+157,60,Muy satisfecho,66.09,Sur,2
+158,46,Insatisfecho,104.07,Centro,6
+159,53,Neutral,106.59,Norte,3
+160,30,Neutral,64.54,Centro,9
+161,49,Muy satisfecho,66.6,Sur,2
+162,24,Satisfecho,69.36,Centro,9
+163,39,Satisfecho,48.11,Centro,5
+164,45,Neutral,56.63,Centro,8
+165,19,Neutral,54.92,Oeste,2
+166,59,Insatisfecho,59.64,Sur,6
+167,62,Muy insatisfecho,74.31,Norte,3
+168,23,Satisfecho,79.68,Este,5
+169,45,Satisfecho,106.01,Norte,8
+170,45,Muy satisfecho,55.03,Oeste,1
+171,61,Muy satisfecho,94.69,Sur,5
+172,61,Neutral,70.72,Centro,3
+173,37,Satisfecho,74.01,Oeste,4
+174,47,Muy satisfecho,88.5,Centro,2
+175,28,Satisfecho,52.55,Norte,9
+176,45,Insatisfecho,82.65,Centro,3
+177,42,Neutral,78.33,Centro,2
+178,56,Insatisfecho,84.85,Este,9
+179,50,Muy satisfecho,80.78,Oeste,7
+180,18,Satisfecho,124.11,Oeste,6
+181,44,Insatisfecho,62.25,Norte,1
+182,30,Satisfecho,64.38,Este,5
+183,58,Satisfecho,62.54,Sur,3
+184,20,Neutral,63.89,Norte,1
+185,56,Insatisfecho,62.25,Sur,4
+186,23,Satisfecho,98.78,Norte,2
+187,25,Neutral,103.41,Norte,2
+188,44,Satisfecho,63.59,Norte,3
+189,26,Neutral,58.35,Centro,8
+190,54,Satisfecho,84.43,Este,8
+191,50,Neutral,63.96,Centro,7
+192,59,Neutral,87.66,Este,6
+193,61,Satisfecho,79.06,Sur,9
+194,41,Neutral,44.69,Este,4
+195,32,Insatisfecho,105.95,Este,1
+196,49,Muy insatisfecho,110.92,Norte,8
+197,49,Satisfecho,62.74,Oeste,7
+198,41,Satisfecho,67.25,Sur,7
+199,58,Satisfecho,80.72,Oeste,3
+200,29,Insatisfecho,81.69,Oeste,4
+201,56,Insatisfecho,88.17,Norte,9
+202,19,Muy insatisfecho,115.2,Norte,6
+203,20,Neutral,71.46,Oeste,5
+204,54,Neutral,59.03,Este,3
+205,34,Neutral,47.41,Norte,9
+206,19,Neutral,60.38,Centro,5
+207,19,Muy satisfecho,74.34,Norte,5
+208,45,Neutral,110.89,Oeste,4
+209,40,Neutral,64.65,Centro,4
+210,54,Satisfecho,79.48,Sur,1
+211,49,Neutral,74.67,Norte,7
+212,50,Satisfecho,98.77,Norte,9
+213,18,Satisfecho,125.54,Sur,3
+214,36,Muy satisfecho,64.38,Norte,2
+215,19,Insatisfecho,65.21,Oeste,3
+216,61,Muy satisfecho,95.88,Norte,1
+217,43,Neutral,88.64,Este,6
+218,49,Insatisfecho,111.93,Centro,7
+219,23,Neutral,86.68,Centro,2
+220,49,Muy satisfecho,67.81,Oeste,8
+221,21,Neutral,86.81,Sur,6
+222,28,Neutral,97.17,Oeste,4
+223,34,Satisfecho,91.41,Este,5
+224,55,Insatisfecho,85.15,Este,8
+225,41,Muy insatisfecho,96.33,Norte,3
+226,22,Insatisfecho,98.39,Centro,3
+227,51,Insatisfecho,102.64,Este,4
+228,23,Insatisfecho,87.97,Norte,1
+229,39,Insatisfecho,71.66,Sur,9
+230,28,Satisfecho,77.93,Este,8
+231,33,Insatisfecho,99.13,Centro,8
+232,50,Neutral,58.66,Oeste,6
+233,26,Satisfecho,82.37,Oeste,7
+234,23,Neutral,67.13,Norte,6
+235,33,Satisfecho,75.57,Este,9
+236,46,Insatisfecho,100.57,Este,3
+237,20,Insatisfecho,78.82,Norte,3
+238,37,Muy insatisfecho,75.93,Sur,3
+239,53,Insatisfecho,47.8,Oeste,3
+240,36,Insatisfecho,89.93,Norte,9
+241,43,Insatisfecho,87.91,Este,4
+242,20,Muy insatisfecho,118.27,Sur,7
+243,36,Insatisfecho,68.84,Norte,9
+244,37,Neutral,79.38,Sur,7
+245,49,Insatisfecho,79.99,Centro,9
+246,24,Neutral,106.55,Centro,3
+247,58,Neutral,73.09,Centro,4
+248,50,Satisfecho,80.58,Este,8
+249,57,Muy insatisfecho,87.16,Norte,6
+250,56,Satisfecho,78.73,Este,5
+251,35,Satisfecho,66.07,Este,4
+252,57,Muy insatisfecho,78.88,Centro,8
+253,18,Satisfecho,96.47,Norte,1
+254,28,Muy satisfecho,54.47,Este,9
+255,45,Muy insatisfecho,77.66,Norte,1
+256,42,Insatisfecho,61.0,Sur,8
+257,40,Satisfecho,98.9,Oeste,4
+258,48,Satisfecho,44.54,Este,9
+259,47,Insatisfecho,63.82,Sur,5
+260,59,Insatisfecho,82.54,Sur,3
+261,52,Neutral,106.31,Este,9
+262,24,Neutral,73.68,Oeste,9
+263,33,Satisfecho,63.9,Centro,4
+264,43,Neutral,112.62,Centro,4
+265,19,Neutral,46.04,Oeste,8
+266,18,Satisfecho,31.02,Sur,2
+267,29,Muy insatisfecho,83.8,Oeste,9
+268,22,Insatisfecho,64.96,Este,6
+269,54,Satisfecho,54.58,Sur,9
+270,49,Satisfecho,89.17,Centro,8
+271,26,Neutral,79.88,Norte,7
+272,58,Neutral,63.72,Centro,1
+273,52,Insatisfecho,49.39,Este,3
+274,36,Neutral,92.45,Oeste,2
+275,33,Neutral,88.0,Oeste,5
+276,20,Insatisfecho,73.02,Centro,5
+277,37,Insatisfecho,111.93,Oeste,5
+278,41,Neutral,53.6,Oeste,4
+279,50,Muy insatisfecho,44.49,Norte,5
+280,41,Neutral,61.16,Este,3
+281,28,Insatisfecho,74.09,Norte,1
+282,25,Neutral,79.87,Oeste,5
+283,53,Insatisfecho,70.18,Este,9
+284,55,Satisfecho,82.04,Oeste,9
+285,57,Neutral,49.97,Norte,4
+286,37,Satisfecho,103.88,Norte,3
+287,52,Satisfecho,73.36,Oeste,1
+288,42,Neutral,97.35,Norte,2
+289,52,Muy insatisfecho,81.85,Norte,8
+290,42,Neutral,84.14,Norte,1
+291,46,Neutral,86.4,Centro,8
+292,35,Satisfecho,83.95,Oeste,7
+293,63,Neutral,87.85,Sur,8
+294,35,Insatisfecho,101.58,Sur,6
+295,19,Insatisfecho,78.93,Sur,9
+296,52,Neutral,89.18,Oeste,3
+297,33,Satisfecho,73.21,Oeste,4
+298,58,Neutral,103.8,Norte,6
+299,53,Neutral,61.47,Norte,8
+300,50,Muy satisfecho,111.02,Norte,5
+301,21,Satisfecho,74.2,Oeste,3
+302,50,Insatisfecho,46.38,Oeste,6
+303,31,Insatisfecho,77.56,Sur,4
+304,38,Insatisfecho,61.38,Norte,9
+305,37,Insatisfecho,91.81,Norte,3
+306,25,Insatisfecho,61.95,Centro,4
+307,24,Insatisfecho,66.08,Sur,7
+308,20,Insatisfecho,37.21,Oeste,7
+309,34,Insatisfecho,65.95,Oeste,4
+310,50,Satisfecho,26.52,Sur,6
+311,29,Muy insatisfecho,43.32,Sur,3
+312,39,Neutral,90.21,Norte,6
+313,39,Neutral,90.72,Oeste,2
+314,63,Muy satisfecho,83.51,Oeste,8
+315,47,Insatisfecho,55.66,Oeste,2
+316,55,Neutral,74.05,Este,7
+317,55,Muy satisfecho,74.93,Norte,9
+318,62,Satisfecho,51.83,Centro,1
+319,25,Satisfecho,105.07,Oeste,8
+320,44,Insatisfecho,92.55,Sur,7
+321,44,Insatisfecho,70.58,Centro,6
+322,51,Satisfecho,75.54,Oeste,6
+323,38,Muy satisfecho,79.17,Este,6
+324,47,Neutral,34.17,Oeste,9
+325,50,Neutral,70.06,Centro,2
+326,45,Insatisfecho,61.36,Oeste,1
+327,64,Satisfecho,54.97,Norte,6
+328,50,Insatisfecho,69.38,Sur,8
+329,22,Neutral,110.95,Centro,3
+330,36,Neutral,87.82,Sur,1
+331,21,Neutral,63.58,Sur,9
+332,52,Insatisfecho,86.45,Este,1
+333,34,Insatisfecho,102.99,Este,3
+334,61,Satisfecho,93.49,Oeste,8
+335,45,Insatisfecho,76.19,Centro,3
+336,47,Neutral,62.06,Sur,4
+337,46,Insatisfecho,88.96,Norte,8
+338,63,Neutral,82.87,Norte,1
+339,23,Neutral,92.9,Centro,6
+340,52,Muy insatisfecho,87.7,Oeste,1
+341,58,Neutral,95.99,Sur,1
+342,54,Insatisfecho,64.3,Centro,8
+343,41,Muy insatisfecho,101.35,Centro,4
+344,46,Muy satisfecho,78.95,Centro,1
+345,63,Neutral,116.51,Centro,7
+346,48,Satisfecho,61.22,Sur,5
+347,52,Insatisfecho,109.72,Oeste,5
+348,50,Satisfecho,78.96,Este,1
+349,38,Satisfecho,61.97,Centro,6
+350,49,Neutral,65.32,Oeste,9
+351,40,Neutral,68.59,Oeste,9
+352,50,Neutral,83.48,Oeste,8
+353,20,Neutral,85.46,Norte,5
+354,35,Muy satisfecho,63.53,Este,1
+355,42,Satisfecho,74.51,Centro,9
+356,59,Muy satisfecho,117.85,Centro,1
+357,48,Insatisfecho,109.55,Norte,8
+358,20,Satisfecho,83.73,Norte,5
+359,57,Muy satisfecho,75.76,Norte,3
+360,63,Insatisfecho,77.4,Oeste,7
+361,41,Muy insatisfecho,87.27,Centro,7
+362,49,Satisfecho,54.54,Sur,9
+363,64,Neutral,69.85,Este,7
+364,39,Satisfecho,41.63,Centro,3
+365,40,Insatisfecho,82.98,Oeste,1
+366,19,Satisfecho,87.94,Este,8
+367,44,Insatisfecho,65.34,Este,3
+368,59,Insatisfecho,106.48,Este,8
+369,19,Insatisfecho,50.48,Sur,8
+370,43,Satisfecho,45.71,Este,5
+371,34,Satisfecho,79.49,Oeste,1
+372,57,Neutral,95.94,Centro,7
+373,50,Neutral,108.68,Oeste,5
+374,26,Satisfecho,65.82,Oeste,8
+375,60,Neutral,96.57,Norte,9
+376,56,Satisfecho,74.23,Este,7
+377,46,Neutral,71.55,Norte,7
+378,59,Neutral,92.67,Sur,1
+379,43,Neutral,88.05,Oeste,4
+380,52,Neutral,43.47,Centro,2
+381,42,Satisfecho,104.53,Norte,2
+382,41,Neutral,102.6,Este,2
+383,30,Insatisfecho,62.49,Centro,4
+384,24,Satisfecho,82.92,Sur,1
+385,53,Neutral,84.88,Este,4
+386,62,Neutral,80.21,Oeste,2
+387,37,Muy satisfecho,63.99,Oeste,5
+388,18,Satisfecho,61.57,Norte,3
+389,25,Insatisfecho,74.49,Sur,8
+390,63,Muy satisfecho,98.45,Oeste,4
+391,33,Satisfecho,85.87,Este,1
+392,31,Neutral,67.59,Norte,1
+393,29,Insatisfecho,90.43,Oeste,3
+394,40,Satisfecho,18.03,Norte,9
+395,32,Satisfecho,97.98,Oeste,7
+396,45,Neutral,40.21,Sur,2
+397,51,Satisfecho,67.75,Centro,9
+398,19,Satisfecho,52.61,Sur,2
+399,49,Insatisfecho,49.11,Sur,3
+400,40,Neutral,98.22,Norte,2
+401,39,Insatisfecho,65.65,Sur,3
+402,42,Satisfecho,81.93,Centro,6
+403,39,Muy insatisfecho,74.06,Centro,9
+404,39,Neutral,84.54,Sur,9
+405,59,Satisfecho,76.54,Este,7
+406,23,Satisfecho,49.34,Oeste,3
+407,32,Neutral,94.93,Centro,4
+408,60,Satisfecho,65.12,Este,6
+409,54,Insatisfecho,43.87,Sur,5
+410,50,Satisfecho,66.44,Este,2
+411,25,Insatisfecho,105.02,Oeste,6
+412,61,Neutral,92.0,Norte,3
+413,61,Satisfecho,68.03,Oeste,8
+414,22,Insatisfecho,68.01,Sur,2
+415,56,Insatisfecho,68.57,Oeste,1
+416,21,Satisfecho,116.53,Norte,9
+417,23,Satisfecho,82.64,Este,3
+418,62,Satisfecho,83.6,Este,1
+419,49,Satisfecho,95.61,Oeste,7
+420,47,Neutral,79.78,Norte,5
+421,64,Insatisfecho,69.82,Este,5
+422,52,Neutral,71.07,Este,1
+423,57,Insatisfecho,73.57,Este,9
+424,33,Muy satisfecho,74.26,Oeste,7
+425,30,Neutral,89.55,Oeste,8
+426,59,Neutral,76.04,Centro,9
+427,47,Neutral,89.65,Sur,6
+428,36,Muy satisfecho,73.39,Centro,5
+429,34,Insatisfecho,76.57,Este,6
+430,36,Neutral,35.04,Norte,2
+431,45,Neutral,93.33,Norte,4
+432,43,Satisfecho,81.93,Sur,3
+433,54,Muy insatisfecho,94.96,Oeste,7
+434,43,Satisfecho,17.07,Oeste,9
+435,40,Muy satisfecho,116.77,Oeste,5
+436,26,Neutral,72.21,Este,6
+437,29,Satisfecho,97.16,Este,2
+438,18,Muy satisfecho,54.2,Norte,3
+439,18,Satisfecho,87.26,Sur,3
+440,64,Insatisfecho,53.93,Este,9
+441,51,Neutral,62.52,Norte,7
+442,49,Satisfecho,113.28,Sur,8
+443,42,Neutral,71.19,Este,9
+444,57,Satisfecho,79.35,Oeste,6
+445,62,Muy satisfecho,92.4,Centro,4
+446,18,Muy satisfecho,84.91,Centro,1
+447,33,Neutral,78.01,Oeste,8
+448,56,Insatisfecho,82.3,Este,7
+449,22,Muy satisfecho,123.07,Oeste,2
+450,39,Satisfecho,73.85,Oeste,8
+451,46,Insatisfecho,79.02,Norte,5
+452,20,Muy satisfecho,96.01,Este,7
+453,29,Satisfecho,97.11,Centro,4
+454,43,Neutral,98.74,Sur,5
+455,33,Neutral,87.77,Este,8
+456,54,Neutral,52.14,Este,1
+457,39,Muy insatisfecho,107.67,Norte,1
+458,46,Neutral,52.07,Sur,4
+459,31,Satisfecho,81.05,Sur,3
+460,45,Muy insatisfecho,59.91,Norte,2
+461,22,Neutral,73.72,Norte,3
+462,64,Neutral,81.58,Centro,1
+463,47,Neutral,81.43,Sur,1
+464,63,Muy satisfecho,83.44,Este,6
+465,22,Neutral,107.27,Sur,5
+466,29,Neutral,84.07,Centro,8
+467,33,Satisfecho,70.12,Sur,2
+468,43,Neutral,94.28,Este,4
+469,43,Insatisfecho,98.79,Centro,8
+470,38,Neutral,50.45,Centro,6
+471,56,Insatisfecho,86.95,Norte,1
+472,53,Insatisfecho,89.02,Centro,4
+473,50,Neutral,69.05,Este,1
+474,47,Neutral,102.51,Este,2
+475,54,Muy satisfecho,72.0,Norte,5
+476,40,Neutral,77.51,Norte,8
+477,27,Neutral,71.54,Oeste,8
+478,22,Satisfecho,75.31,Este,3
+479,53,Muy insatisfecho,53.07,Este,4
+480,51,Satisfecho,46.2,Oeste,6
+481,48,Insatisfecho,106.89,Oeste,3
+482,27,Muy satisfecho,58.06,Norte,2
+483,36,Insatisfecho,55.17,Oeste,6
+484,49,Neutral,31.93,Norte,5
+485,18,Muy insatisfecho,62.22,Oeste,5
+486,22,Muy satisfecho,48.54,Oeste,5
+487,62,Neutral,107.84,Centro,5
+488,21,Neutral,95.2,Norte,3
+489,33,Muy insatisfecho,61.24,Norte,7
+490,41,Satisfecho,120.05,Sur,6
+491,33,Insatisfecho,94.64,Sur,4
+492,19,Satisfecho,68.5,Sur,2
+493,45,Insatisfecho,25.01,Centro,9
+494,49,Insatisfecho,120.82,Sur,1
+495,44,Muy insatisfecho,47.21,Sur,4
+496,37,Neutral,42.09,Oeste,1
+497,41,Neutral,95.45,Este,6
+498,29,Muy insatisfecho,123.8,Oeste,4
+499,52,Satisfecho,102.69,Norte,5
+500,50,Neutral,86.28,Este,5
